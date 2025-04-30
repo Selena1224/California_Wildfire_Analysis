@@ -38,9 +38,7 @@ The objective of this project is to identify temporal and geographic wildfire tr
 ## Repository Contents
 
 - `Project 1 Report FINAL.pdf` – Full report with analysis and recommendations
-- `Project 1.pptx` – Slide deck summarizing key visuals and insights
 - `Project 1 Chart FINAL.pdf` – Supplemental charts and infographics
-- `Figure 2.mp4` – Animated map of wildfire growth over time
 
 ## Recommendations
 
